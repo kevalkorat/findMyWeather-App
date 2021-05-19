@@ -2,6 +2,7 @@
 
 A simple weather app built using OpenWeatherMap API and MVVM app architecture that displays current weather conditions as well as 7 day forecast. This app is also beautifully implemented for dark mode as well. This was my project for the university class of Android.  
 
+## Screenshots
 
 <p float="left">
   <img src="screenshots/light-1.png" height="450" hspace="30"/>
