@@ -5,17 +5,17 @@ A simple weather app built using OpenWeatherMap API and MVVM app architecture th
 ## Screenshots
 
 <p float="left">
-  <img src="screenshots/light-1.png" height="450" hspace="30"/>
- <img src="screenshots/light-2.png" height="450" hspace="30"/>
- <img src="screenshots/light-3.png" height="450" hspace="30"/>
+  <img src="screenshots/light-1.png" height="425" hspace="20"/>
+ <img src="screenshots/light-2.png" height="425" hspace="20"/>
+ <img src="screenshots/light-3.png" height="425" hspace="20"/>
 </p>
 
 
 
 <p float="left">
-  <img src="screenshots/dark-1.png" height="450" hspace="30"/>
- <img src="screenshots/dark-2.png" height="450" hspace="30"/>
- <img src="screenshots/dark-3.png" height="450" hspace="30"/>
+  <img src="screenshots/dark-1.png" height="425" hspace="20"/>
+ <img src="screenshots/dark-2.png" height="425" hspace="20"/>
+ <img src="screenshots/dark-3.png" height="425" hspace="20"/>
 </p>
 
 ## Features
